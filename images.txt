@@ -1,1 +1,2 @@
-jeessy2/ddns-go:Latest
+nginx
+jeessy2/ddns-go
