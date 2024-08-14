@@ -1,1 +1,1 @@
-v2fly/v2ray-core:latest
+jeessy2/ddns-go:Latest
