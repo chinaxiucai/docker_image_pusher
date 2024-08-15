@@ -1,1 +1,1 @@
---platform=docker jeessy2/ddns-go
+jeessy/ddns-go
